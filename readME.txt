@@ -1,4 +1,4 @@
-This is a little YouTube downloader program I wrote to pratice some of my the things I've learnt on my Web Develpment learning paths
+This is a little YouTube downloader program I wrote to pratice some of the things I've learnt on my Web Develpment learning paths
 
 Usage Information
 
